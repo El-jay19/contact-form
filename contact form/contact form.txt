@@ -1,0 +1,45 @@
+<html
+    <head>
+        <title></title>
+    </head>
+            <body style="background-color:powderblue;">
+	    <div id="fcf-form">
+            <h3><center><b> COMERIVER </b></center></h3>
+	        <p> Home / Widgets / View Form</p>
+            <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+        <div class="fcf-form-group">
+                <label for="Name" class="fcf-label">First name</label>
+        <div class="fcf-input-group">
+                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
+        </div>
+        <div class="fcf-form-group">
+            <label for="Last Name" class="fcf-label">Last Name</label>
+        <div class="fcf-input-group">
+            <input type="email" id="Name" name="Name" class="fcf-form-control" required>
+        </div>
+        <div class="fcf-form-group">
+            <label for="Email" class="fcf-label">Your email address</label>
+            <div class="fcf-input-group">
+            <input type="email" id="Email" name="Email" class="fcf-form-control" required>
+        </div>
+    	<div class="fcf-form-group">
+            <label for="Phone Number" class="fcf-label">Phone Number</label>
+            <div class="fcf-input-group">
+            <input type="email" id="Number" name="Number" class="fcf-form-control" required>
+        </div>
+        <div class="fcf-form-group">
+            <label for="Address" class="fcf-label">Full Residential Address</label>
+        <div class="fcf-input-group">
+            <input type="Address" id="Address" class="fcf-form-control" required>
+       </div>
+       <div class="fcf-form-group">
+	    	<p> Passport Photograph</p>
+            <button type="Upload"</button>
+        </div>
+        <div class="fcf-credit" id="fcf-credit">
+            Simple HTML email form provided by <a href="https://www.majesticform.com" target="_blank">MajesticForm</a>
+        </div>
+         </form>
+        </body>
+</html>
+
